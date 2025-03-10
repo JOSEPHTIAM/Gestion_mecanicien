@@ -12,12 +12,13 @@ __ Pour installer LARAVEL :
 composer global required laravel/installer
 
 __ Pour voir la vevrsion du LARAVEL :
-laavel -V
+laravel -V
 
 
 	<< LARAVEL >>
 __ Pour installer LARAVEL :
 composer global required laravel/installer
+
 
 __ Pour créer une application ou projet LARAVEL :
 laravel new nom_du_projet
